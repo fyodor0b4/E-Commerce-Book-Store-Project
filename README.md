@@ -5,6 +5,8 @@ In this project, the online site of a bookstore was developed using Html, CSS an
 - HTML
 - CSS
 - Vanilla JavaScript
+- Bootstrap
+- jQuery
 
 # Screenshot
 ![](images/bookstoress.PNG)
